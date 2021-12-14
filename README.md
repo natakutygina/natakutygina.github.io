@@ -1,2 +1,2 @@
-# natakutygina.github.io
-Nata's Portfolio
+# natalie.github.io
+Natalie's Portfolio
