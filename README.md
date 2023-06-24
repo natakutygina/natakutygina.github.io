@@ -1,2 +1,2 @@
-# natalie.github.io
+# natalia.github.io
 Natalia's Portfolio
